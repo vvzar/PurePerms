@@ -46,7 +46,7 @@ cmds:
     messages: 
       successfully_reloaded: "Все настройки плагина были успешно перезагружены."
   rmgroup: 
-    desc: "Удаляет указанную группу"
+    desc: "Удаляет указанную группу."
     usage: "Пример: /rmgroup <группа>"
     messages:
       group_removed_successfully: "Группа %var0% успешно удалена."
